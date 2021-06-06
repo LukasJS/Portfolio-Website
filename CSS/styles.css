@@ -54,9 +54,9 @@ body {
   .nav-link-wrapper a:hover {
     color: black;
 }
-  
+
 .main-background {
-    background-image:url(images/tall-sprouts.jpg);
+    background-image:url(../images/tall-sprouts.jpg);
     background-color: #cccccc;
     height: 900px;
     background-position: center top;
