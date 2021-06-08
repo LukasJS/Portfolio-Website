@@ -10,7 +10,7 @@ body {
 
 .brand {
     text-transform: uppercase;
-    font-size: 18px;
+    font-size: 14px;
     padding-left: 33px;
 }
 
@@ -55,10 +55,10 @@ body {
     color: black;
 }
 
-.main-background {
-    background-image:url(../images/tall-sprouts.jpg);
+.section1 {
+    background-image:url(../images/blue_light.jpg);
     background-color: #cccccc;
-    height: 900px;
+    height: 100vh;
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
